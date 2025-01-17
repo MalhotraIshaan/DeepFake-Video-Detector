@@ -16,6 +16,7 @@ This project is designed to detect deepfake videos and audio using state-of-the-
 - **MoviePy**: For video and audio preprocessing.
 - **OpenCV**: For processing of video frames.
 - **Resnet**: For transfer learning.
+- **Librosa**: For feature extraction of audio data.
 
 ## Usage
 1. Prepare your dataset:
