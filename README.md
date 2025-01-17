@@ -29,7 +29,7 @@ This project is designed to detect deepfake videos and audio using state-of-the-
 .
 ├── models              # Pre-trained and custom models
 ├── scripts             # Preprocessing and training scripts
-├── Main.py             # Script for testing the model
+├── Main.ipynb             # Script for testing the model
 ├── requirements.txt    # Dependencies
 └── README.md           # Project documentation
 ```
