@@ -3,6 +3,6 @@ pandas
 tensorflow
 moviepy
 opencv-python
-ffmeg
+ffpmeg
 librosa
 joblib
